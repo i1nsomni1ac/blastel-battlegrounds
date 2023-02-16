@@ -1,0 +1,5 @@
+{
+"hashURL" : "https://raw.githubusercontent.com/i1nsomni1ac/blastel-battlegrounds/main/hash.txt",
+"downloadURL" : "https://drive.google.com/file/d/1rVFgo5zGItZxDPle2PmHrZpqENVfDtCv/view?usp=share_link",
+"message" : ""
+}
